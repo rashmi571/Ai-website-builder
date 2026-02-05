@@ -1,2 +1,4 @@
-# Ai-website-builder
-AI Website Builder is a tool that uses artificial intelligence to create websites automatically without coding. Users just enter their requirements, and the AI generates a complete, responsive, and customizable website quickly.
+# Machine Learning
+This repository contains machine learning projects built using Python and scikit-learn.
+It covers data preprocessing, feature engineering, model training, evaluation, and performance comparison using real-world datasets.
+
